@@ -1,0 +1,12 @@
+*.pyc
+*~
+env/
+.git/
+.idea/
+db.sqlite3
+media/
+hell/media
+hell/whoosh_index
+onesgroup
+local_settings.py
+.DS_Store
